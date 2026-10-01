@@ -1,0 +1,8 @@
+pyproject.toml
+src/textkit/__init__.py
+src/textkit/cli.py
+src/textkit/stats.py
+src/textkit.egg-info/PKG-INFO
+src/textkit.egg-info/SOURCES.txt
+src/textkit.egg-info/dependency_links.txt
+src/textkit.egg-info/top_level.txt
